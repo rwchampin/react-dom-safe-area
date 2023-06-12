@@ -1,0 +1,18 @@
+
+ 
+	:root {
+		--sat: env(safe-area-inset-top);
+		--sar: env(safe-area-inset-right);
+		--sab: env(safe-area-inset-bottom);
+		--sal: env(safe-area-inset-left);
+	}
+
+.react-dom-safe-area {
+	padding-top: var(--sat);
+	padding-right: var(--sar);
+	padding-bottom: var(--sab);
+	padding-left: var(--sal);
+	min-height: 100%;
+	width: 100%;
+	// width: 100vw; if youre feeling saucy today lol who knows
+}
