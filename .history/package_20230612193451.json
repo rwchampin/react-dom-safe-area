@@ -3,7 +3,6 @@
   "version": "1.0.0",
   "description": "A Safe Area React Component that solves mobile iOS address bar height changing issues & iPhone notch problems including issues with fixed positioning - damn iOS smh lol",
   "author": "Ryan Champin",
-  "website": "https://www.ryanthedeveloper.co",
   "license": "MIT",
   "repository": "rwchampin/react-dom-safe-area",
   "main": "dist/index.tsx",
