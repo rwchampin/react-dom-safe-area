@@ -7,7 +7,7 @@
 		--sal: env(safe-area-inset-left);
 	}
 
-.react-dom-safe-area, .min-h-screen-mobile {
+.react-dom-safe-area {
 	padding-top: var(--sat);
 	padding-right: var(--sar);
 	padding-bottom: var(--sab);
